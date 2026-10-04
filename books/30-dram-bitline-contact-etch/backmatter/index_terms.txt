@@ -1,0 +1,58 @@
+Active area|active area
+ARDE|ARDE
+Aspect ratio|aspect ratio
+Amorphous carbon|amorphous carbon|carbon mask|carbon open
+Atomic-layer recess|atomic-layer
+BCAT|BCAT|buried-channel
+Bit-line node|bit-line node
+Bit-line stack|bit-line stack|bit-line etch
+Bowing|bow
+Buffer|buffer
+Burn-in|burn-in
+Cap, word-line|cap nitride|word-line cap
+Charging|charging
+CD shrink|shrink
+Clearance|clearance
+Co-recess|co-recess
+Contact area|contact area
+Contact resistance|R_DC|contact resistance
+Cross-section|cross-section|TEM
+Damage|damage
+Dielectric-first|dielectric-first
+Dry clean|dry clean|NF₃/NH₃
+Endpoint|endpoint
+Epitaxial plug|epitaxial
+Feed-forward|feed-forward
+Fluorocarbon|fluorocarbon
+GIDL|GIDL
+HBr|HBr
+Interfacial oxide|interfacial oxide|native oxide
+Ion angular distribution|σ
+Kelvin chain|Kelvin
+LCDU|LCDU|local CD uniformity
+Light etch|light etch
+Liner pit|liner pit
+Mesa|mesa
+Metrology|metrology|CD-SEM|OCD
+Neutral transport|neutral
+Node-limited|node-limited
+Overlay|overlay
+Paired-bit failure|paired-bit
+Pit|pit
+Poly fill|fill|in-situ
+Queue time|queue time
+Rayleigh distribution|Rayleigh
+Recipe A|recipe A
+Recipe B|recipe B
+Recipe C|recipe C
+Redundancy|redundancy
+Self-aligned contact|self-aligned
+Specific contact resistivity|ρ_c
+Storage-node contact|storage-node contact|SNC
+STI|STI
+Taper|taper
+Three-dimensional DRAM|3D DRAM
+Vertical-channel transistor|vertical-channel|4F²
+View factor|view factor
+Voltage contrast|voltage-contrast|voltage contrast
+Wall loss|wall loss
